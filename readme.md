@@ -7,3 +7,5 @@ No problem
 I want to add a new commit
 
 Editing on the server
+
+I need to learn more on git fundamentals
